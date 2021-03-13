@@ -1,2 +1,2 @@
 # Dijkstra_MHBT
-Dijkstras shortest path implemented on a binary heap
+Dijkstra's shortest path implemented on a binary heap
